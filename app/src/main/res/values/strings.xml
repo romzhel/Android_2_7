@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="btn_set_geofence">Задать геозону с текущими координатами</string>
 </resources>
